@@ -1,4 +1,0 @@
-flask==3.0.0
-pandas==2.1.4
-scikit-learn==1.3.0  # 确保与你训练模型时的版本一致
-joblib==1.3.2
